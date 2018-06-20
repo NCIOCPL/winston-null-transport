@@ -1,0 +1,22 @@
+{
+  "name": "winston-null-transport",
+  "version": "1.0.0",
+  "description": "Null Transport for the Winston Logger for use in Node Unit Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NCIOCPL/winston-null-transport.git"
+  },
+  "author": "Bryan Pizzillo",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/NCIOCPL/winston-null-transport/issues"
+  },
+  "homepage": "https://github.com/NCIOCPL/winston-null-transport#readme",
+  "dependencies": {
+    "winston": "^3.0.0"
+  }
+}
